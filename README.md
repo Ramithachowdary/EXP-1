@@ -3,21 +3,35 @@
 ## NAME: Ramitha chowdary S
 ## REG NO: 212224240130
 ## AIM
+<d>
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
+<d>
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
-
+<d>
+ 
 ## APPARATUS REQUIRED:
+ 
 S.No.	Components	Range	Quantity
+<d>
 1	Resistor	1kΩ	3
+ <d>
 2	Voltmeter (DC)	0-30V	3
+  <d>
 3	Ammeter (DC)	(0-200)mA	3
+   <d>
 4	Bread Board		1
+    <d>
 5	Regulated Power Supply	(0-30)V	1
+     <d>
 6	Connecting wires		As required
-
+<d>
+ 
 ## THEORY:
-KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
+KVL: 
+<d>
+Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
 KCL:
+<d>
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
 
